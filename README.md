@@ -9,3 +9,4 @@ Repository about Generative Adversarial Network (GANs). Includes:
 - Cycle GAN (https://arxiv.org/abs/1703.10593)
 
 ![alt text](https://github.com/NguyenThaiVu/Generative-Adversarial-Network/blob/master/demo_cycleGAN.PNG)
+Example of CycleGAN
